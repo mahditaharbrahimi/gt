@@ -1,0 +1,7 @@
+git config --global user.name "mahditaharbrahimi"
+git config --global user.email mahditahar.brahimi@univ-msila.dz
+cd D:\Greedy_Binary_Expansions_Algorithm
+git init
+git remote add origin https://github.com/mahditaharbrahimi/gt.git
+git remote set-url origin https://github.com/mahditaharbrahimi/gt.git
+git remote -v
