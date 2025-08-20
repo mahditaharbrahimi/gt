@@ -5,3 +5,7 @@ git init
 git remote add origin https://github.com/mahditaharbrahimi/gt.git
 git remote set-url origin https://github.com/mahditaharbrahimi/gt.git
 git remote -v
+git add .
+git commit -m "Initial commit "
+git branch -M main
+git push --force origin main
